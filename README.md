@@ -89,10 +89,5 @@ python -m nltk.downloader vader_lexicon
 ## Data Collection Note
 Data was collected using Reddit's API during the 2024 transition period following the 2023 API pricing changes. The dataset includes comments and posts from both English and French language subreddits, providing a diverse sampling of public discourse around the Olympic preparations.
 
-## Citation
-If you use this analysis, please cite:
-
-Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
-
 ## License
-[Insert your chosen license here]
+Please see MIT License
